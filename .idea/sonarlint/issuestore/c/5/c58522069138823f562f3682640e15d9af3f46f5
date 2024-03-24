@@ -1,0 +1,18 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8şëî„ç1
+r
+java:S1104"PMake path a static final constant or non-public and provide accessors if needed.(í”Ùúÿÿÿÿ8ÿëî„ç1
+L
+java:S1444"*Make this "public static path" field final(í”Ùúÿÿÿÿ8ÿëî„ç1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Û…Šìÿÿÿÿÿ8ˆìî„ç1
+G	java:S106"+Replace this use of System.out by a logger.(’ôÆà8Œìî„ç1
+R
+java:S1128"5Remove this unused import 'org.jsoup.nodes.Document'.(ô¯É8ìî„ç1
+S
+java:S1128"6Remove this unused import 'org.jsoup.select.Elements'.(ëÂè8ìî„ç1
+T
+java:S1128	"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8ìî„ç1
+K
+java:S1128
+")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8ìî„ç1
