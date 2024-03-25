@@ -9,3 +9,5 @@ h
 8src/main/java/com/example/HttpStatusImageDownloader.java,c\5\c58522069138823f562f3682640e15d9af3f46f5
 a
 1src/main/java/com/example/HttpImageStatusCli.java,7\0\70be97c8fac724a5a16155d4fad717709efec6f0
+i
+9src/main/java/com/example/InvalidStatusCodeException.java,e\a\eadbc65ac7f8a393ad8fc447a394c95343d7223a

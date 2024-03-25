@@ -1,3 +1,7 @@
 
 ‰
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‘Ğæ„ç1
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ç×Ö½ç1
+S
+java:S1128"1Remove this unused import 'org.jsoup.Connection'.(¸Äúÿÿÿÿ8è×Ö½ç1
+N
+java:S1128",Remove this unused import 'org.jsoup.Jsoup'.(Ù±šªûÿÿÿÿ8è×Ö½ç1

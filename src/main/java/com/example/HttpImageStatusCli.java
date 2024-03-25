@@ -5,6 +5,7 @@ import org.jsoup.Jsoup;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class HttpImageStatusCli {
@@ -14,8 +15,12 @@ public class HttpImageStatusCli {
             System.out.println("Enter HTTP status code: ");
             HttpStatusImageDownloader.downloadStatusImage(scanner.nextInt());
         }
-        catch (Exception e){
+        catch (InvalidStatusCodeException e){
+            System.out.println(e.getMessage());
+        }
+        catch (InputMismatchException e){
             System.out.println("Please enter valid number");
         }
+
     }
 }

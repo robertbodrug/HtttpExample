@@ -1,14 +1,14 @@
 
 \
-java:S1118
-":Add a private constructor to hide the implicit public one.(åªà³ıÿÿÿÿ8öËä„ç1
-G	java:S106"+Replace this use of System.out by a logger.(Œ©ïÈ8úËä„ç1
-G	java:S106"+Replace this use of System.out by a logger.(–çŸó8²¶À·ç1
+java:S1118":Add a private constructor to hide the implicit public one.(åªà³ıÿÿÿÿ8Ì¨‚½ç1
+G	java:S106"+Replace this use of System.out by a logger.(Œ©ïÈ8Šá‚½ç1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ûº„½ç1
+G	java:S106"+Replace this use of System.out by a logger.(–çŸó8åÁ…½ç1
 S
-java:S1128"1Remove this unused import 'org.jsoup.Connection'.(¸Äúÿÿÿÿ8ûËä„ç1
+java:S1128"1Remove this unused import 'org.jsoup.Connection'.(¸Äúÿÿÿÿ8‹á‚½ç1
 N
-java:S1128",Remove this unused import 'org.jsoup.Jsoup'.(Ù±šªûÿÿÿÿ8ûËä„ç1
+java:S1128",Remove this unused import 'org.jsoup.Jsoup'.(Ù±šªûÿÿÿÿ8‹á‚½ç1
 Q
-java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8üËä„ç1
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8‹á‚½ç1
 R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8óä„ç1
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8‹á‚½ç1

@@ -1,5 +1,8 @@
 package com.example;
 
+import org.jsoup.Connection;
+import org.jsoup.Jsoup;
+
 import java.io.IOException;
 
 public class Main {
