@@ -14,5 +14,8 @@ public class HttpImageStatusCli {
             System.out.println("Enter HTTP status code: ");
             HttpStatusImageDownloader.downloadStatusImage(scanner.nextInt());
         }
+        catch (Exception e){
+            System.out.println("Please enter valid number");
+        }
     }
 }
